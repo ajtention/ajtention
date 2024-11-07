@@ -30,12 +30,11 @@
 
 ## 📈 Featured Projects
 
-### Higher Education Outcomes Analysis
+### [Higher Education Outcomes Analysis](https://github.com/ajtention/Higher-Ed-Outcomes-Analysis)
 *Analyzing U.S. college and university data to understand how factors like cost and institution type impact future earnings.*
 
 - **Tech**: Python, Pandas, Matplotlib
 - **Skills**: Data Cleaning, Multiple Linear Regression, Feature Selection
-- *(Project link coming soon!)*
 
 ### Customer Returns Analysis for Office Trends
 *Examining return patterns to identify opportunities for reducing loss and improving shipping processes.*
