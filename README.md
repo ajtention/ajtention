@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Anaya Tention
+# 👋 Hi! I'm Anaya 
 
 **Aspiring Data Scientist | Analytics Enthusiast | Problem-Solver**
 
