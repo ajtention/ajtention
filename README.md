@@ -12,9 +12,9 @@
 
 ## 🌱 What I’m Working On
 - **Certifications**:  
-  - IBM Data Science Professional Certificate  
-  - Microsoft Power BI Data Analyst  
-  - Google Advanced Data Analytics  
+  - IBM Data Science Professional Certificate - In Progress  
+  - Microsoft Power BI Data Analyst - In Progress  
+  - Google Advanced Data Analytics - In Progress   
 - **Projects**:  
   - **Higher Education Outcomes Analysis**: Using the College Scorecard dataset to analyze factors affecting graduates' median earnings ten years after enrollment. (📊 Multiple Linear Regression, Random Forest)
   
