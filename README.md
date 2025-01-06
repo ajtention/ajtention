@@ -22,7 +22,7 @@
 
 ## 🛠️ Technical Skills
 - **Languages**: Python, SQL, Java
-- **Analytics**: Data Cleaning, Feature Engineering, Model Selection
+- **Analytics**: Data Cleaning, Feature Engineering, Model Selection, Machine Learning
 - **Visualization**: Power BI, Matplotlib, Tableau
 - **Tools & Platforms**: Jupyter Notebook, Git, SAS, Excel
 
