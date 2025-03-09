@@ -21,10 +21,11 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, SQL, Java
+- **Languages**: Python, SQL, Java, JavaScript
 - **Analytics**: Data Cleaning, Feature Engineering, Model Selection, Machine Learning
 - **Visualization**: Power BI, Matplotlib, Tableau
 - **Tools & Platforms**: Jupyter Notebook, Git, SAS, Excel
+- **Web Development Technologies**: HTML5, CSS3
 
 ---
 
