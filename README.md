@@ -36,12 +36,12 @@
 - **Tech**: Python, Pandas, Matplotlib
 - **Skills**: Data Cleaning, Multiple Linear Regression, Feature Selection
 
-### Customer Returns Analysis for Office Trends
-*Examining return patterns to identify opportunities for reducing loss and improving shipping processes.*
+### [Anaya's Portfolio](https://github.com/ajtention/anaya-portfolio)
+*This site showcases my projects, skills, and journey as a data science student.*
 
-- **Tech**: Power BI
-- **Skills**: Exploratory Data Analysis (EDA), Visualization, Trend Analysis
-- *(Project link coming soon!)*
+- **Tech**: HTML5, CSS3, JavaScript
+- **Skills**: Front-End Development, DOM Manipulation, Form Validation, Git & GitHub
+- Check it out here: [https://ajtention.github.io/anaya-portfolio/](https://ajtention.github.io/anaya-portfolio/)
 
 ---
 
